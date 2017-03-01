@@ -52,13 +52,13 @@ public class LoginServlet extends HttpServlet {
 		out.println(address);
 		
 		//新建用户类
-		UserDao dao = new UserDao();
+		/*UserDao dao = new UserDao();
 		User test = new User();
 		
 		test.setUsername(username);
 		test.setAddress(address);
 		dao.add(test);
-	}
+	*/}
 
 	/**
 	 * The doPost method of the servlet. <br>

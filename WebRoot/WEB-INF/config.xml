@@ -17,7 +17,7 @@
 	Configure the location of uploaded files. See the following article for more details:
 	http://docs.cksource.com/CKFinder_2.x/Developers_Guide/Java/Configuration/baseURL_and_baseDir
 	-->
-	<baseDir>D:\英雄时刻\apache-tomcat-8.5.11\webapps\cmsfiles</baseDir>
+	<baseDir>D:\tomcat\webapps\cmsfiles</baseDir>
 	<baseURL>/cmsfiles/</baseURL>
 	<licenseKey></licenseKey>
 	<licenseName></licenseName>
